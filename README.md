@@ -7,13 +7,13 @@ Rocketseat web version to Happy application.
 To run application, first clone the repository, then go to application root directory on terminal and run:
 
 If you're using Yarn, install the dependencies using the following command:
-
+```
 yarn install
-
+```
 Then run apllication using:
-
+```
 expo start
-
+```
 
 ### Libraries used:
 
